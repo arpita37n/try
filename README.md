@@ -1,2 +1,3 @@
 # New Project
-This is a first created by me 
+This is a first project created by me.
+created by me.
